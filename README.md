@@ -3,7 +3,7 @@
 <img align="right" width="94" src="http://ai.github.io/autoprefixer/logo.svg" title="Autoprefixer logo by Anton Lovchikov">
 
 Parse CSS and add vendor prefixes to CSS rules using values
-from the [Can I Use](http://caniuse.com/).
+from [Can I Use](http://caniuse.com/).
 
 Write your CSS rules without vendor prefixes (in fact, forget about them
 entirely):
